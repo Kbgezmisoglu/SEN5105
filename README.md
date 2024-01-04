@@ -8,21 +8,21 @@ When you run **caesarcipher.py**, the output will look like this:
 
 
 Do you want to (e)ncrypt or (d)ecrypt? 
->e
+- e
 Please enter the key (0 to 25) to use.
->>4
+- 4
 Enter the message to encrypt.
-> Meet me by the rose bushes tonight. QIIX QI FC XLI VSWI FYWLIW XSRMKLX.
+- Meet me by the rose bushes tonight. QIIX QI FC XLI VSWI FYWLIW XSRMKLX.
 Full encrypted text copied to clipboard.
 
 or
 
 Do you want to (e)ncrypt or (d)ecrypt? 
->d
+- d
 Please enter the key (0 to 26) to use.
->>4
+- 4
 Enter the message to decrypt.
-> QIIX QI FC XLI VSWI FYWLIW XSRMKLX. MEET ME BY THE ROSE BUSHES TONIGHT.
+- QIIX QI FC XLI VSWI FYWLIW XSRMKLX. MEET ME BY THE ROSE BUSHES TONIGHT.
 Full decrypted text copied to clipboard.
 
 ---------------
