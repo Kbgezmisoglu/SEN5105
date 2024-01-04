@@ -1,7 +1,8 @@
 # SEN5105
 SEN5105 - Final Exam
 
-1. CAESAR CIPHER **(caesarcipher.py)**
+1. CAESAR CIPHER (caesarcipher.py)
+
 The Caesar cipher is an ancient encryption algorithm used by Julius Caesar. It encrypts letters by shifting them over by a certain number of places in the alphabet. We call the length of shift the key. For example, if the key is 3, then A becomes D, B becomes E, C becomes F, and so on. To decrypt the message, you must shift the encrypted letters in the opposite direction. This program lets the user encrypt and decrypt messages according to this algorithm.
 
 When you run **caesarcipher.py**, the output will look like this:
@@ -29,7 +30,8 @@ or
 
 ---------------
 
-2. TRIVIA GAME **(triviagame.py)**
+2. TRIVIA GAME (triviagame.py)
+
 In this programming exercise, you will create a simple trivia game for two players. The program will work like this:
 
 - Starting with player 1, each player gets a turn at answering 5 trivia questions. (There should be a total of 10 questions.) When a question is displayed, 4 possible answers are also displayed. Only one of the answers is correct, and if the player selects the correct answer, he or she earns a point.
@@ -50,7 +52,8 @@ The program should have a list or a dictionary containing 10 Question objects, o
 
 ---------------
 
-3. PATIENT SYSTEM **(patientsystem.py)**
+3. PATIENT SYSTEM (patientsystem.py)
+
 Write a class named Patient that has attributes for the following data:
 
 - First name, middle name, and last name
